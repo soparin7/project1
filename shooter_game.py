@@ -2,7 +2,7 @@ from pygame import *
 import random
 
 
-# Инициализация Pygame
+# Инициализация Pygame gfjdsksrfssfpsfjfiffwdjawfjafwafwpfwf
 font.init()
 window = display.set_mode((700, 500))
 display.set_caption("Тараканы")
